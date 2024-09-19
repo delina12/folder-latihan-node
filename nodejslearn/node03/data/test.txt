@@ -1,0 +1,1 @@
+Menuliskan string ke dalam file secara asynchronous

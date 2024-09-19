@@ -1,0 +1,13 @@
+button{
+    width: 4rem;
+    height: 3rem;
+    
+}
+input{
+    width: 24rem;
+    height: 3rem;
+    text-align: center;
+}
+.result{
+    font-size: 2.5rem;
+}
